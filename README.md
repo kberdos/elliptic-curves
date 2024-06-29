@@ -1,2 +1,2 @@
-# The Group Law of Elliptic Curves: An expository project
+# The Group Law of Elliptic Curves: An Expository Project
 As my final project for Brown's MATH1530: Abstract Algebra I investigated elliptic curves. These are some of the most fascinating mathematical objects, as algebraic properties can be applied to the set of points defining the curve. I explore and prove the group structure that can be placed on these curves, as well as explore their critical use in cryptographic systems. This repository houses the necessary `.tex`, `.cls`, and media files needed to compile the document, as well as some [SageMath](https://www.sagemath.org/) code to draw and analyze the curves. 
