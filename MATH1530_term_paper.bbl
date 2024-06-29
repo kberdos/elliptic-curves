@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{abel}
+M.~N.~H. Abel.
+\newblock {Recherches sur les fonctions elliptiques}.
+\newblock {\em Acta Mathematica}, 26(none):3 -- 41, 1902.
+
+\bibitem{cassels_1991}
+J.~W.~S. Cassels.
+\newblock {\em LMSST: 24 Lectures on Elliptic Curves}.
+\newblock London Mathematical Society Student Texts. Cambridge University
+  Press, 1991.
+
+\bibitem{Fitchett}
+S.~Fitchett.
+\newblock Bezout's theorem: A taste of algebraic geometry.
+\newblock 05 2023.
+
+\bibitem{fujii}
+K.~Fujii and H.~Oike.
+\newblock An algebraic proof of the associative law of elliptic curves.
+\newblock {\em Advances in Pure Mathematics}, 07:649--659, 01 2017.
+
+\bibitem{jacobi1829fundamenta}
+C.~Jacobi.
+\newblock {\em Fundamenta nova theoriae functionum ellipticarum}.
+\newblock Sumtibus fratrum, 1829.
+
+\bibitem{Kline}
+D.~Kline.
+\newblock Elliptic curves and cryptography.
+\newblock 05 2023.
+
+\bibitem{legendre}
+A.~Legendre.
+\newblock {\em Trait{\'e} des fonctions elliptiques et des int{\'e}grales
+  eul{\'e}riennes: avec des tables pour en faciliter le calcul num{\'e}rique}.
+\newblock Number v. 1 in Trait{\'e} des fonctions elliptiques et des
+  int{\'e}grales eul{\'e}riennes: avec des tables pour en faciliter le calcul
+  num{\'e}rique. Imprimerie de Huzard-Courcier, 1825.
+
+\bibitem{miller1986use}
+V.~S. Miller.
+\newblock {\em Use of elliptic curves in cryptography}.
+\newblock Springer, 1986.
+
+\bibitem{nichols2013intersection}
+M.~Nichols.
+\newblock {\em Intersection Number of Plane Curves}.
+\newblock Oberlin College, 2013.
+
+\bibitem{H1901}
+H.~Poincaré.
+\newblock Sur les propriétés arithmétiques des courbes algébriques.
+\newblock {\em Journal de Mathématiques Pures et Appliquées}, 7:161--234,
+  1901.
+
+\bibitem{rice}
+A.~Rice and E.~Brown.
+\newblock Why ellipses are not elliptic curves.
+\newblock {\em Mathematics Magazine}, 85(3):pp. 163--176, 2012.
+
+\bibitem{sandifer2007euler}
+C.~Sandifer.
+\newblock {\em How Euler Did It}.
+\newblock MAA spectrum. Mathematical Association of America, 2007.
+
+\bibitem{Silverman:1338326}
+J.~H. Silverman.
+\newblock {\em {The Arithmetic of Elliptic Curves}}.
+\newblock Graduate texts in mathematics. Springer, Dordrecht, 2009.
+
+\bibitem{singh1998fermat}
+S.~Singh and J.~Lynch.
+\newblock {\em Fermat's Enigma: The Epic Quest to Solve the World's Greatest
+  Mathematical Problem}.
+\newblock Knopf Doubleday Publishing Group, 1998.
+
+\bibitem{stein2008elementary}
+W.~Stein.
+\newblock {\em Elementary Number Theory: Primes, Congruences, and Secrets: A
+  Computational Approach}.
+\newblock Undergraduate Texts in Mathematics. Springer New York, 2008.
+
+\end{thebibliography}
