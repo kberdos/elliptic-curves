@@ -1,16 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.24)  24 MAY 2024 10:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.24)  29 JUN 2024 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kazuyaerdos/programming/latex/MATH1530_abstract_algebra/term-paper/MATH1530_term_paper
-(/Users/kazuyaerdos/programming/latex/MATH1530_abstract_algebra/term-paper/MATH1530_term_paper.tex
+**/Users/kazuyaerdos/programming/elliptic-curves/elliptic-curves
+(/Users/kazuyaerdos/programming/elliptic-curves/elliptic-curves.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22> (../../math_paper.cls
-
-LaTeX Warning: You have requested document class `../../math_paper',
-               but the document class provides `math_paper'.
-
+L3 programming layer <2023-02-22> (./math_paper.cls
 Document Class: math_paper 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
@@ -754,8 +750,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 LaTeX Font Info:    Trying to load font information for T1+pplx on input line 12.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
-) (./MATH1530_term_paper.aux)
-\openout1 = `MATH1530_term_paper.aux'.
+) (./elliptic-curves.aux)
+\openout1 = `elliptic-curves.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -845,9 +841,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/pplx/m/it --> T1/pplx/b/it on input line 12.
 Package hyperref Info: Link coloring ON on input line 12.
- (./MATH1530_term_paper.out) (./MATH1530_term_paper.out)
+ (./elliptic-curves.out) (./elliptic-curves.out)
 \@outlinefile=\write4
-\openout4 = `MATH1530_term_paper.out'.
+\openout4 = `elliptic-curves.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -911,18 +907,70 @@ Class math_paper Warning: Abstract should precede \maketitle in AMS document cla
 LaTeX Font Warning: Font shape `T1/pplx/m/up' undefined
 (Font)              using `T1/pplx/m/n' instead on input line 19.
 
-<media/curve_1.png, id=49, 454.5783pt x 338.2236pt>
+<media/curve_1.png, id=45, 454.5783pt x 338.2236pt>
 File: media/curve_1.png Graphic file (type png)
 <use media/curve_1.png>
 Package pdftex.def Info: media/curve_1.png  used on input line 33.
 (pdftex.def)             Requested size: 194.26488pt x 144.54pt.
-<media/curve_2.png, id=51, 454.5783pt x 338.2236pt>
+<media/curve_2.png, id=47, 454.5783pt x 338.2236pt>
 File: media/curve_2.png Graphic file (type png)
 <use media/curve_2.png>
 Package pdftex.def Info: media/curve_2.png  used on input line 39.
 (pdftex.def)             Requested size: 194.26488pt x 144.54pt.
-[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./media/curve_1.png> <./media/curve_2.png>] [2]
-<media/curve_3.png, id=119, 454.5783pt x 338.2236pt>
+
+LaTeX Warning: Citation `rice' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `sandifer2007euler' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `legendre' on page 1 undefined on input line 45.
+
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./media/curve_1.png> <./media/curve_2.png>]
+
+LaTeX Warning: Citation `jacobi1829fundamenta' on page 2 undefined on input line 47.
+
+
+LaTeX Warning: Citation `abel' on page 2 undefined on input line 47.
+
+
+LaTeX Warning: Citation `H1901' on page 2 undefined on input line 47.
+
+
+LaTeX Warning: Citation `singh1998fermat' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `stein2008elementary' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `stein2008elementary' on page 2 undefined on input line 58.
+
+
+LaTeX Warning: Citation `Silverman:1338326' on page 2 undefined on input line 60.
+
+
+LaTeX Warning: Citation `Fitchett' on page 2 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Fitchett' on page 2 undefined on input line 68.
+
+[2]
+
+LaTeX Warning: Citation `Fitchett' on page 3 undefined on input line 72.
+
+
+LaTeX Warning: Citation `nichols2013intersection' on page 3 undefined on input line 75.
+
+
+LaTeX Warning: Citation `stein2008elementary' on page 3 undefined on input line 90.
+
+
+LaTeX Warning: Citation `stein2008elementary' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `Kline' on page 3 undefined on input line 101.
+
+<media/curve_3.png, id=88, 454.5783pt x 338.2236pt>
 File: media/curve_3.png Graphic file (type png)
 <use media/curve_3.png>
 Package pdftex.def Info: media/curve_3.png  used on input line 108.
@@ -930,19 +978,29 @@ Package pdftex.def Info: media/curve_3.png  used on input line 108.
 
 Underfull \vbox (badness 2573) has occurred while \output is active []
 
- [3] [4 <./media/curve_3.png>]
-<media/grid_1.png, id=162, 645.41125pt x 599.23875pt>
+ [3]
+
+LaTeX Warning: Citation `stein2008elementary' on page 4 undefined on input line 115.
+
+
+LaTeX Warning: Citation `fujii' on page 4 undefined on input line 131.
+
+
+LaTeX Warning: Citation `cassels_1991' on page 4 undefined on input line 135.
+
+[4 <./media/curve_3.png>]
+<media/grid_1.png, id=123, 645.41125pt x 599.23875pt>
 File: media/grid_1.png Graphic file (type png)
 <use media/grid_1.png>
 Package pdftex.def Info: media/grid_1.png  used on input line 151.
 (pdftex.def)             Requested size: 233.50995pt x 216.81pt.
-<media/grid_2.png, id=164, 656.4525pt x 644.4075pt>
+<media/grid_2.png, id=125, 656.4525pt x 644.4075pt>
 File: media/grid_2.png Graphic file (type png)
 <use media/grid_2.png>
 Package pdftex.def Info: media/grid_2.png  used on input line 160.
 (pdftex.def)             Requested size: 220.86703pt x 216.81pt.
  [5 <./media/grid_1.png> <./media/grid_2.png>]
-<media/curve_4.png, id=174, 454.5783pt x 338.2236pt>
+<media/curve_4.png, id=135, 454.5783pt x 338.2236pt>
 File: media/curve_4.png Graphic file (type png)
 <use media/curve_4.png>
 Package pdftex.def Info: media/curve_4.png  used on input line 194.
@@ -952,7 +1010,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
-<media/crypto.png, id=187, 453.1329pt x 338.2236pt>
+
+LaTeX Warning: Citation `stein2008elementary' on page 7 undefined on input line 212.
+
+
+LaTeX Warning: Citation `miller1986use' on page 7 undefined on input line 212.
+
+<media/crypto.png, id=146, 453.1329pt x 338.2236pt>
 File: media/crypto.png Graphic file (type png)
 <use media/crypto.png>
 Package pdftex.def Info: media/crypto.png  used on input line 219.
@@ -960,30 +1024,36 @@ Package pdftex.def Info: media/crypto.png  used on input line 219.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-(./MATH1530_term_paper.bbl [7 <./media/curve_4.png>])
+
+LaTeX Warning: Citation `cassels_1991' on page 7 undefined on input line 227.
+
+No file elliptic-curves.bbl.
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 240.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [8 <./media/crypto.png>] [9] (./MATH1530_term_paper.aux)
+) [7 <./media/curve_4.png>] [8 <./media/crypto.png>] [9] (./elliptic-curves.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `MATH1530_term_paper.out' has not changed.
-(rerunfilecheck)             Checksum: D40AC48044ACA5F26BEDFF607FB5BED8;1621.
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `elliptic-curves.out' has not changed.
+(rerunfilecheck)             Checksum: A57DA485054DE26A0D01AD8422974EB9;1527.
  ) 
 Here is how much of TeX's memory you used:
- 27217 strings out of 476025
- 493174 string characters out of 5790016
- 1881388 words of memory out of 5000000
- 46874 multiletter control sequences out of 15000+600000
- 556987 words of font info for 121 fonts, out of 8000000 for 9000
+ 27178 strings out of 476025
+ 492411 string characters out of 5790016
+ 1895388 words of memory out of 5000000
+ 46856 multiletter control sequences out of 15000+600000
+ 554926 words of font info for 118 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 117i,13n,118p,1324b,1889s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,13n,118p,1293b,1889s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/euex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on MATH1530_term_paper.pdf (9 pages, 424118 bytes).
+Output written on elliptic-curves.pdf (9 pages, 417710 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 104 named destinations out of 1000 (max. 500000)
- 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
